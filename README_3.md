@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rea.png" alt="REA" width="280">
+  <img src="rea.png" alt="REA x Opus 5.5" width="100%">
 </p>
 
 # REA — Reverse Engineer Anything
